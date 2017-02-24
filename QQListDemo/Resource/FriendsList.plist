@@ -11,99 +11,29 @@
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>虞美人</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>2.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>网红脸</string>
 				<key>vip</key>
-				<string>1</string>
+				<string>0</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>3.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>凤姐</string>
 				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
+				<string>5.jpg</string>
 			</dict>
 		</array>
 		<key>name</key>
@@ -120,7 +50,7 @@
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>虞美人</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
@@ -130,7 +60,7 @@
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>虞美人</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
@@ -140,9 +70,9 @@
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>虞美人</string>
 				<key>vip</key>
-				<string>1</string>
+				<string>0</string>
 			</dict>
 			<dict>
 				<key>icon</key>
@@ -150,9 +80,9 @@
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>虞美人</string>
 				<key>vip</key>
-				<string>1</string>
+				<string>0</string>
 			</dict>
 			<dict>
 				<key>icon</key>
@@ -160,9 +90,9 @@
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>虞美人</string>
 				<key>vip</key>
-				<string>1</string>
+				<string>0</string>
 			</dict>
 			<dict>
 				<key>icon</key>
@@ -170,9 +100,9 @@
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>虞美人</string>
 				<key>vip</key>
-				<string>1</string>
+				<string>0</string>
 			</dict>
 			<dict>
 				<key>icon</key>
@@ -180,39 +110,9 @@
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>虞美人</string>
 				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
+				<string>0</string>
 			</dict>
 		</array>
 		<key>name</key>
@@ -225,101 +125,101 @@
 		<array>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>8.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>李四</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>8.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>李四</string>
+				<key>vip</key>
+				<string>0</string>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>8.jpg</string>
+				<key>intro</key>
+				<string>坚持就是胜利</string>
+				<key>name</key>
+				<string>李四</string>
+				<key>vip</key>
+				<string>0</string>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>8.jpg</string>
+				<key>intro</key>
+				<string>坚持就是胜利</string>
+				<key>name</key>
+				<string>李四</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>8.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>李四</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>8.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>李四</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>8.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>李四</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>8.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>李四</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>8.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>李四</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>8.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
+				<string>李四</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
@@ -334,101 +234,81 @@
 		<array>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>9.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>方法</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>9.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>方法</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>9.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>方法</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>9.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>方法</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>9.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>方法</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>9.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>方法</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>9.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>方法</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>9.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
+				<string>方法</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
@@ -443,103 +323,53 @@
 		<array>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>14.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>小鱼儿</string>
 				<key>vip</key>
-				<string>1</string>
+				<string>0</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>14.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>小鱼儿</string>
 				<key>vip</key>
-				<string>1</string>
+				<string>0</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>14.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>小鱼儿</string>
 				<key>vip</key>
-				<string>1</string>
+				<string>0</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>14.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>小鱼儿</string>
 				<key>vip</key>
-				<string>1</string>
+				<string>0</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>14.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>小鱼儿</string>
 				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
+				<string>0</string>
 			</dict>
 		</array>
 		<key>name</key>
@@ -552,101 +382,61 @@
 		<array>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>11.jpg</string>
 				<key>intro</key>
-				<string>坚持就是胜利</string>
+				<string>人民的力量正伟大</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>马云</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>11.jpg</string>
 				<key>intro</key>
-				<string>坚持就是胜利</string>
+				<string>人民的力量正伟大</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>马云</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>11.jpg</string>
 				<key>intro</key>
-				<string>坚持就是胜利</string>
+				<string>人民的力量正伟大</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>马云</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>11.jpg</string>
 				<key>intro</key>
-				<string>坚持就是胜利</string>
+				<string>人民的力量正伟大</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>马云</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>11.jpg</string>
 				<key>intro</key>
-				<string>坚持就是胜利</string>
+				<string>人民的力量正伟大</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>马云</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>11.jpg</string>
 				<key>intro</key>
-				<string>坚持就是胜利</string>
+				<string>人民的力量正伟大</string>
 				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
+				<string>马云</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
@@ -661,101 +451,91 @@
 		<array>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>13.jpg</string>
 				<key>intro</key>
-				<string>坚持就是胜利</string>
+				<string>我爱中国</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>俞敏洪</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>13.jpg</string>
 				<key>intro</key>
-				<string>坚持就是胜利</string>
+				<string>我爱中国</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>俞敏洪</string>
+				<key>vip</key>
+				<string>0</string>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>13.jpg</string>
+				<key>intro</key>
+				<string>我爱中国</string>
+				<key>name</key>
+				<string>俞敏洪</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>13.jpg</string>
 				<key>intro</key>
-				<string>坚持就是胜利</string>
+				<string>我爱中国</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>俞敏洪</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>13.jpg</string>
 				<key>intro</key>
-				<string>坚持就是胜利</string>
+				<string>我爱中国</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>俞敏洪</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>13.jpg</string>
 				<key>intro</key>
-				<string>坚持就是胜利</string>
+				<string>我爱中国</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>俞敏洪</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>13.jpg</string>
 				<key>intro</key>
-				<string>坚持就是胜利</string>
+				<string>我爱中国</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>俞敏洪</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>13.jpg</string>
 				<key>intro</key>
-				<string>坚持就是胜利</string>
+				<string>我爱中国</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>俞敏洪</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>13.jpg</string>
 				<key>intro</key>
-				<string>坚持就是胜利</string>
+				<string>我爱中国</string>
 				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
+				<string>俞敏洪</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
@@ -770,101 +550,41 @@
 		<array>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>13.jpg</string>
 				<key>intro</key>
-				<string>坚持就是胜利</string>
+				<string>我的生命必须有......</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>于得水</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>13.jpg</string>
 				<key>intro</key>
-				<string>坚持就是胜利</string>
+				<string>我的生命必须有......</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>于得水</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>13.jpg</string>
 				<key>intro</key>
-				<string>坚持就是胜利</string>
+				<string>我的生命必须有......</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>于得水</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>13.jpg</string>
 				<key>intro</key>
-				<string>坚持就是胜利</string>
+				<string>我的生命必须有......</string>
 				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
+				<string>于得水</string>
 				<key>vip</key>
 				<string>1</string>
 			</dict>
@@ -879,103 +599,53 @@
 		<array>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>14.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>小鱼儿</string>
 				<key>vip</key>
-				<string>1</string>
+				<string>0</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>14.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>小鱼儿</string>
 				<key>vip</key>
-				<string>1</string>
+				<string>0</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>14.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>小鱼儿</string>
 				<key>vip</key>
-				<string>1</string>
+				<string>0</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>14.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>小鱼儿</string>
 				<key>vip</key>
-				<string>1</string>
+				<string>0</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>14.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>小鱼儿</string>
 				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
+				<string>0</string>
 			</dict>
 		</array>
 		<key>name</key>
@@ -988,103 +658,53 @@
 		<array>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>14.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>小鱼儿</string>
 				<key>vip</key>
-				<string>1</string>
+				<string>0</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>14.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>小鱼儿</string>
 				<key>vip</key>
-				<string>1</string>
+				<string>0</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>14.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>小鱼儿</string>
 				<key>vip</key>
-				<string>1</string>
+				<string>0</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>14.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>小鱼儿</string>
 				<key>vip</key>
-				<string>1</string>
+				<string>0</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>14.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>小鱼儿</string>
 				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
+				<string>0</string>
 			</dict>
 		</array>
 		<key>name</key>
@@ -1097,103 +717,53 @@
 		<array>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>14.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>小鱼儿</string>
 				<key>vip</key>
-				<string>1</string>
+				<string>0</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>14.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>小鱼儿</string>
 				<key>vip</key>
-				<string>1</string>
+				<string>0</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>14.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>小鱼儿</string>
 				<key>vip</key>
-				<string>1</string>
+				<string>0</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>14.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>小鱼儿</string>
 				<key>vip</key>
-				<string>1</string>
+				<string>0</string>
 			</dict>
 			<dict>
 				<key>icon</key>
-				<string>1.png</string>
+				<string>14.jpg</string>
 				<key>intro</key>
 				<string>坚持就是胜利</string>
 				<key>name</key>
-				<string>李亚东</string>
+				<string>小鱼儿</string>
 				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
-			</dict>
-			<dict>
-				<key>icon</key>
-				<string>1.png</string>
-				<key>intro</key>
-				<string>坚持就是胜利</string>
-				<key>name</key>
-				<string>李亚东</string>
-				<key>vip</key>
-				<string>1</string>
+				<string>0</string>
 			</dict>
 		</array>
 		<key>name</key>

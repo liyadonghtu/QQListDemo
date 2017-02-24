@@ -22,7 +22,7 @@
 
     static NSString *indentifier=@"header";
     //先到缓存池中去取数据
-    HeaderView *headerview = [tableView dequeueReusableCellWithIdentifier:indentifier];
+    HeaderView *headerview = (HeaderView *)[tableView dequeueReusableCellWithIdentifier:indentifier];
     //如果没有，则自己创建
     if (headerview == nil) {
         headerview = [[HeaderView alloc]initWithReuseIdentifier:indentifier];
